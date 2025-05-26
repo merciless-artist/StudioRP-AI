@@ -4,15 +4,16 @@ A flexible Discord bot template for creating AI-powered character bots using any
 
 ## Features
 
-- 🤖 AI-powered responses using any OpenAI-compatible API
-- 💾 Local memory system for conversation history
-- 🔄 Automatic fallback model support
-- 📝 Extensive character customization through JSON
-- 🎭 Chat and roleplay modes
-- 🛠️ In-Discord character editing (admin only)
-- 🎨 Custom commands per character
+- 💠 AI-powered responses using any OpenAI-compatible API
+- 💠 Local memory system for conversation history
+- 💠 Automatic fallback model support
+- 💠 Extensive character customization through JSON
+- 💠 Chat and roleplay modes
+- 💠 In-Discord character editing (admin only)
+- 💠 Custom commands per character
 
 ## Setup
+### I usually host my bots with fps.ms because it is either free or super cheap to run a server there in python or js
 
 1. **Clone this template**
    ```bash
