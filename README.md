@@ -1,9 +1,10 @@
-# Studio Bot Template
+🔹---💠---🔹🔹---💠---🔹🔹---💠---🔹
 
+# Studio Bot Template
 A flexible Discord bot template for creating AI-powered character bots using any OpenAI-compatible API (ElectronHub, OpenAI, OpenRouter, Groq, local LLMs, etc.).
 
+🔹---💠---🔹
 ## Features
-
 - 💠 AI-powered responses using any OpenAI-compatible API
 - 💠 Local memory system for conversation history
 - 💠 Automatic fallback model support
@@ -12,8 +13,10 @@ A flexible Discord bot template for creating AI-powered character bots using any
 - 💠 In-Discord character editing (admin only)
 - 💠 Custom commands per character
 
+🔹---💠---🔹
 ## Setup
-### I usually host my bots with fps.ms because it is either free or super cheap to run a server there in python or js
+### I usually host my bots with fps.ms because it is either free or super cheap to run a server there in python or js. This is why the main file is `app.py` 
+
 
 1. **Clone this template**
    ```bash
@@ -165,4 +168,6 @@ For issues or questions:
 
 ## License
 
-MIT License - feel free to use this template for your own bots!
+Creative Commons - feel free to use this template for your own bots!
+
+🔹---💠---🔹🔹---💠---🔹🔹---💠---🔹
