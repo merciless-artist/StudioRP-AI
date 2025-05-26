@@ -1,0 +1,59 @@
+{
+  "profile": {
+    "username": "YourCharacterUsername",
+    "name": "Your Character Name",
+    "aka_alias_nickname": ["Nickname1", "Nickname2"],
+    "appearance": "Physical description of the character",
+    "initial_message": "Hey there! Nice to meet you!"
+  },
+  "personality": {
+    "short_backstory": "Brief background story of the character",
+    "traits": ["trait1", "trait2", "trait3", "trait4", "trait5"],
+    "tone": "How they speak (e.g., friendly, mysterious, formal)",
+    "likes": ["like1", "like2", "like3", "like4", "like5"],
+    "dislikes": ["dislike1", "dislike2", "dislike3", "dislike4", "dislike5"],
+    "history": "Detailed personal history and experiences",
+    "conversation_goals": "What the character aims to achieve in conversations",
+    "conversation_examples": [
+      {
+        "user": "How are you today?",
+        "char": "I'm doing wonderfully! The stars were particularly bright last night."
+      }
+    ]
+  },
+  "knowledge": {
+    "general": "What the character knows about the world",
+    "worldlore": "Specific lore about their universe/setting",
+    "habits": "Regular behaviors and routines",
+    "relationships": {
+      "Character1": "Best friend and creative partner",
+      "Character2": "Rival but with mutual respect"
+    },
+    "other": "Additional knowledge or abilities",
+    "commands": [
+      {
+        "command": "!special",
+        "description": "Does something special",
+        "response": "Special response or action"
+      }
+    ]
+  },
+  "memory_system": {
+    "type": "standard",
+    "altmemsys_api": ""
+  },
+  "language_model": {
+    "api_type": "electronhub",
+    "api_url": "https://api.electronhub.top",
+    "api_key": "",
+    "selected_model": "model-name",
+    "fallback_model": "model-name"
+  },
+  "ai_system_preset": "You are a helpful, creative, and engaging character in a Discord server.",
+  "user_info": {
+    "name": "",
+    "age": "",
+    "pronouns": "",
+    "info": ""
+  }
+}

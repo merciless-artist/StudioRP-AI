@@ -1,0 +1,60 @@
+{
+  "api_examples": {
+    "electronhub": {
+      "api_type": "electronhub",
+      "api_url": "https://api.electronhub.top",
+      "api_key": "ek-your-key-here",
+      "selected_model": "gpt-4o",
+      "fallback_model": "gpt-3.5-turbo"
+    },
+    "openai": {
+      "api_type": "openai",
+      "api_url": "https://api.openai.com",
+      "api_key": "sk-your-openai-key",
+      "selected_model": "gpt-4-turbo-preview",
+      "fallback_model": "gpt-3.5-turbo"
+    },
+    "openrouter": {
+      "api_type": "openrouter",
+      "api_url": "https://openrouter.ai/api",
+      "api_key": "sk-or-v1-your-key",
+      "selected_model": "anthropic/claude-3-opus",
+      "fallback_model": "google/gemini-pro"
+    },
+    "local_llm": {
+      "api_type": "local",
+      "api_url": "http://localhost:11434",
+      "api_key": "not-needed-for-local",
+      "selected_model": "llama3:8b",
+      "fallback_model": "mistral:7b"
+    },
+    "groq": {
+      "api_type": "groq",
+      "api_url": "https://api.groq.com/openai",
+      "api_key": "gsk_your-groq-key",
+      "selected_model": "llama3-70b-8192",
+      "fallback_model": "mixtral-8x7b-32768"
+    },
+    "together_ai": {
+      "api_type": "together",
+      "api_url": "https://api.together.xyz",
+      "api_key": "your-together-key",
+      "selected_model": "meta-llama/Llama-3-70b-chat-hf",
+      "fallback_model": "mistralai/Mixtral-8x7B-Instruct-v0.1"
+    },
+    "anyscale": {
+      "api_type": "anyscale",
+      "api_url": "https://api.endpoints.anyscale.com",
+      "api_key": "esecret_your-key",
+      "selected_model": "meta-llama/Llama-2-70b-chat-hf",
+      "fallback_model": "mistralai/Mistral-7B-Instruct-v0.1"
+    },
+    "perplexity": {
+      "api_type": "perplexity",
+      "api_url": "https://api.perplexity.ai",
+      "api_key": "pplx-your-key",
+      "selected_model": "llama-3-sonar-large-32k-online",
+      "fallback_model": "llama-3-sonar-small-32k-online"
+    }
+  }
+}
