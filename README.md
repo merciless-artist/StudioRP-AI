@@ -15,7 +15,7 @@ A flexible Discord bot template for creating AI-powered character bots using any
 
 🔹---💠---🔹
 ## Setup
-### I usually host my bots with fps.ms because it is either free or super cheap to run a server there in python or js. This is why the main file is `app.py` 
+### I usually host my bots with fps.ms because it is either free or super cheap to run a server there in python or js. They require your app to be called `app.py` 
 
 
 1. **Clone this template**
