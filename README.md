@@ -79,10 +79,10 @@ The `character.json` file contains all character data:
 ```json
 "language_model": {
   "api_type": "electronhub",
-  "api_url": "https://api.electronhub.top",
+  "api_url": "https://api.provider.whatever",
   "api_key": "your-key",
   "selected_model": "gpt-4o",
-  "fallback_model": "gpt-3.5-turbo"
+  "fallback_model": "gemini-pro-latest"
 }
 ```
 
