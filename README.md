@@ -38,7 +38,7 @@ A flexible Discord bot template for creating AI-powered character bots using any
    ```env
    DISCORD_TOKEN=your_discord_bot_token
    CHARACTER_FILE=character.json
-   API_URL=https://api.electronhub.top
+   API_URL=https://api.provider.whatever
    API_KEY=your_api_key
    ```
 
