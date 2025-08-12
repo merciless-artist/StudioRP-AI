@@ -43,9 +43,9 @@
     "altmemsys_api": ""
   },
   "language_model": {
-    "api_type": "electronhub",
-    "api_url": "https://api.electronhub.top",
-    "api_key": "",
+    "api_type": "provider",
+    "api_url": "endpoint",
+    "api_key": "1234567890_provider_key_0987654321",
     "selected_model": "model-name",
     "fallback_model": "model-name"
   },
